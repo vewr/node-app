@@ -40,7 +40,7 @@ class NavBar extends Component {
 						</Typography>
 						<Button color='inherit'>Login</Button>
 						<Button color='inherit'>SignUp</Button>
-						<Button color='inherit'>Upload Bitch</Button>
+						<Button color='inherit'>Upload</Button>
 					</Toolbar>
 				</AppBar>
 			</div>
